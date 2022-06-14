@@ -255,4 +255,8 @@ var THEMETAGS = THEMETAGS || {};
     preloader: false,
     focus: "#name"
   });
+
+  $('.navbar-nav>li>a').on('click', function(){
+    $('.navbar-collapse').collapse('hide');
+  });
 })();

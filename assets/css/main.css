@@ -50628,11 +50628,11 @@ select:invalid {
 @media (min-width: 320px) and (max-width: 767px) {
   /* line 1251, src/assets/scss/custom/_style.scss */
   .sticky-header.affix {
-    padding: 15px 0 !important;
+    padding: 10px 0 !important;
   }
   /* line 1254, src/assets/scss/custom/_style.scss */
   .action-btns a:first-of-type {
-    margin-bottom: 15px;
+    margin-bottom: 10px;
   }
 }
 
