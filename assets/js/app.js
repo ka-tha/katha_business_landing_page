@@ -256,7 +256,7 @@ var THEMETAGS = THEMETAGS || {};
     focus: "#name"
   });
 
-  $('.navbar-nav>li>a').on('click', function(){
-    $('.navbar-collapse').collapse('hide');
+  $('.nav>li>a').on('click', function(){
+    $('#nav-close-btn').click();
   });
 })();
