@@ -1,0 +1,6 @@
+.hero-gradient {
+    font-size: 3rem;
+    background: -webkit-linear-gradient(120deg, #87ff9f, #37d2e7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
